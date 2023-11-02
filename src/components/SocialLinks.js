@@ -4,10 +4,10 @@ import insta from "./Images/social-logo/insta.png";
 import linkdin from "./Images/social-logo/linkedin.png";
 import gmail from "./Images/social-logo/gmail.png";
 
-const Linkedin_Link = "https://www.linkedin.com/in/mayur-gavhane-51817a203/";
-const Instagram_Link = "https://www.instagram.com/mayur_gavhane_003/";
-const Github_Link = "https://github.com/mayurgavhane03";
-const Email_Link = "mailto:mayurrgavhane2003@gmail.com";
+const Linkedin_Link = "https://www.linkedin.com/in/vidhya-bhale-0b3486207/";
+const Instagram_Link = "https://www.instagram.com/vidhyabhale/";
+const Github_Link = "https://github.com/Vidhya1010";
+const Email_Link = "mailto:vidhyabhale8@gmail.com";
 
 export default function SocialLinks() {
   const iconSize = "w-12 h-12 mt-[30px] "; // Adjust the size as needed

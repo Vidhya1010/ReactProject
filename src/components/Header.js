@@ -12,7 +12,7 @@ export default function Header() {
           <Link to="/">
             {" "}
             <h1 className="font-bold text-2xl cursor-pointer flex items-center gap-1 ">
-              Mayur Gavhane
+              Vidhya Bhale
             </h1>{" "}
           </Link>
         </div>
